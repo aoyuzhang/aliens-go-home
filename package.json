@@ -2,7 +2,7 @@
   "name": "aliens-go-home",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://aoyuzhang.github.io/aliens-go-home"
+  "homepage": "http://aoyuzhang.github.io/aliens-go-home",
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.12.0",
