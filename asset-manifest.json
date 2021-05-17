@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/aliens-go-home/static/css/main.8865484c.chunk.css",
-    "main.js": "/aliens-go-home/static/js/main.e09b4501.chunk.js",
-    "main.js.map": "/aliens-go-home/static/js/main.e09b4501.chunk.js.map",
+    "main.js": "/aliens-go-home/static/js/main.fe14fcd3.chunk.js",
+    "main.js.map": "/aliens-go-home/static/js/main.fe14fcd3.chunk.js.map",
     "runtime-main.js": "/aliens-go-home/static/js/runtime-main.392af58d.js",
     "runtime-main.js.map": "/aliens-go-home/static/js/runtime-main.392af58d.js.map",
     "static/js/2.7957b0be.chunk.js": "/aliens-go-home/static/js/2.7957b0be.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.392af58d.js",
     "static/js/2.7957b0be.chunk.js",
     "static/css/main.8865484c.chunk.css",
-    "static/js/main.e09b4501.chunk.js"
+    "static/js/main.fe14fcd3.chunk.js"
   ]
 }
