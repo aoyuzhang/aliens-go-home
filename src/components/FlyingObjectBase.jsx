@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 
-const FLyingObjectBase = (props) => {
+const FlyingObjectBase = (props) => {
   const style = {
     fill: '#979797',
     stroke: '#5c5c5c',
