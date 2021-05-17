@@ -6,7 +6,6 @@ import './index.css';
 import Game from './containers/Game';
 import reducer from './reducers';
 import reportWebVitals from './reportWebVitals';
-
 const store = createStore(
   reducer,
   window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__(),
